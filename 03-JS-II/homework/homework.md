@@ -10,7 +10,7 @@ for (let i = 0; i < 5; i++) {
 console.log('Esta es la vuelta número: ' + i)
 }
 
-Con cada vuelta que de el bucle, "i" incrementará su valor en 1. "i" empezará desde el 0.
+Con cada vuelta que de el bucle, "i" incrementará su valor en 1. "i" empezará desde el 0 y terminará cuando i sea menor a 5, es decir, solamente dará 5 vueltas.
 
 Es muy común en la programación empezar desde el 0, ya que en temas como arreglos, las posiciones empiezan desde el 0.
 
